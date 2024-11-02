@@ -1,0 +1,7 @@
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\HonkifYouHateCampusTraffic
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\HonkifYouHateCampusTraffic.dll
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\HonkifYouHateCampusTraffic.deps.json
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\HonkifYouHateCampusTraffic.runtimeconfig.json
+C:\Users\noahj\source\repos\HonkifYouHateCampusTraffic\HonkifYouHateCampusTraffic\obj\Release\net8.0\linux-x64\PubTmp\Out\HonkifYouHateCampusTraffic.pdb

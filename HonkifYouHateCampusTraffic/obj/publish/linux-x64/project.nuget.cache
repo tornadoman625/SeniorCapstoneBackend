@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmQKbeG7lJ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahj\\source\\repos\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahj\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.10\\microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
