@@ -1,0 +1,6 @@
+@CampusTrafficAPP_HostAddress = http://localhost:5236
+
+GET {{CampusTrafficAPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

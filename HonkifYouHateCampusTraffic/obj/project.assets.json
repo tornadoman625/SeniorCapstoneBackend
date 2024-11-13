@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noahj\\source\\repos\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic.csproj",
+      "projectUniqueName": "C:\\Users\\noahj\\Source\\Repos\\tornadoman625\\SeniorCapstoneBackend\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic.csproj",
       "projectName": "HonkifYouHateCampusTraffic",
-      "projectPath": "C:\\Users\\noahj\\source\\repos\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic.csproj",
+      "projectPath": "C:\\Users\\noahj\\Source\\Repos\\tornadoman625\\SeniorCapstoneBackend\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic.csproj",
       "packagesPath": "C:\\Users\\noahj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noahj\\source\\repos\\HonkifYouHateCampusTraffic\\HonkifYouHateCampusTraffic\\obj\\",
+      "outputPath": "C:\\Users\\noahj\\Source\\Repos\\tornadoman625\\SeniorCapstoneBackend\\HonkifYouHateCampusTraffic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
